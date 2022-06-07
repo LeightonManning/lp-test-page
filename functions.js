@@ -3,6 +3,7 @@ function LPJsMethodName(callback) {
     callback('eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYWNjOjE2ODQzNzIwIl0sImV4cCI6MTY1NDE5MjMwOCwiaWF0IjoxNjQ2NDE2MzA4LCJpc3MiOiJodHRwczovL3BvY2FwcC5jb20iLCJscF9zZGVzIjpbeyJpbmZvIjp7ImN1c3RvbWVySWQiOiJ0aGV5IGFyZSBBVVRIIn0sInR5cGUiOiJjdG1yaW5mbyJ9XSwic3ViIjoiV2ViTXNnVGVzdDEyMyJ9.HwHmcrorf-3UZnfuDMMXPRNXdFgaSnN7hKUiyBSFPZAqgqdfeNuUKppDKqRtGrBAjeqDtbIv-Qa2zolHwCAdoz7CIhp9PBubnP7OnrIzii5pQfwkr-Ig6RqIyartNM-tKsK2WeQFxixsxcLZPY_DqRVf82cFmadDRN6rqHY0qFfJWiQqApkCHVG5xsnAwc2bTfCLNo8K7gramVY4nYtKqEt3_3ZN0eBiW8-aBKSbDHAouxZKnWzyVczOswXHSnucEIjV84DZT0kwRWETlDd3QKYM5AodZxqX2TeSaS9lQceK58SajwEQQyci3Abrt08mk45QIb4KQuX7H4E-Bfex1Q');
 }
 
-$(document).ready(function() {
+/*$(document).ready(function() {
     $('#button').draggable();
   });
+*/
